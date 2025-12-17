@@ -3,13 +3,15 @@
 ## Why Does This Exist?
 I made this vocabulary guide-centralized document because I was very interested in maths by the time I had hit 11th grade.
 I was passionate about learning more, yet, I ran into some institutional and personal barriers that slowed down my progress in a topic I had increasingly began to love.
-_The textbooks were too dense and I felt alone._ _**Nobody should ever have to feel this way, so I created my algebra-guide, and compiled all the coursework into 1 pdf in reverse order of assignment.**_
+_The textbooks were too dense and I didn't know where to go to accelerate my mathematics education in a course-by-course format._ _**Nobody should ever have to feel this way, so I created my algebra-guide.** I also compiled all the coursework into 1 pdf in reverse order of assignment from my HS teacher. If he js reading this and would like me to take down that pdf, let me know. I am more than happy to comply.
 
 ## Why Should I Use This?
 1. It's free
 2. It gives a big-picture, less dense view than a textbook _(can still be very word heavy, I'm sorry abt that ;-;)_
-3. It was made by a student that _**really struggled with algebra 2 while they were struggling and shortly after.**_
+3. It was made by a student as they were _**struggling with Algebra 2 and Calculus 1.**_
 4. It gives jumping off points for topics such as _programming and higher level mathematics._
+5. It gives structure for how to go about learning mathematics outside of class.
+6. It shows some accessible outlets for automating and expressing mathematics.
 
 ## Table of Contents
 * ### Introduction
